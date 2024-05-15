@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Gjej këngën</string>
+  <string name="media3_controls_play_description">Luaj</string>
+  <string name="media3_controls_pause_description">Vendos në pauzë</string>
+  <string name="media3_controls_seek_to_previous_description">Kërko te artikulli i mëparshëm</string>
+  <string name="media3_controls_seek_to_next_description">Kërko te artikulli tjetër</string>
+  <string name="media3_controls_seek_back_description">Kërko prapa</string>
+  <string name="media3_controls_seek_forward_description">Kërko përpara</string>
+  <string name="authentication_required">Kërkohet vërtetimi</string>
+</resources>

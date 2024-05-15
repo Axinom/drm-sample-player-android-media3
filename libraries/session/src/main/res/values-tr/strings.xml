@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Şimdi oynatılıyor</string>
+  <string name="media3_controls_play_description">Oynat</string>
+  <string name="media3_controls_pause_description">Duraklat</string>
+  <string name="media3_controls_seek_to_previous_description">Önceki öğeye sar</string>
+  <string name="media3_controls_seek_to_next_description">Sonraki öğeye sar</string>
+  <string name="media3_controls_seek_back_description">Geri sar</string>
+  <string name="media3_controls_seek_forward_description">İleri sar</string>
+  <string name="authentication_required">Kimlik doğrulama gerekiyor</string>
+</resources>

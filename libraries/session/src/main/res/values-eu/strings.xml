@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Orain erreproduzitzen</string>
+  <string name="media3_controls_play_description">Erreproduzitu</string>
+  <string name="media3_controls_pause_description">Pausatu</string>
+  <string name="media3_controls_seek_to_previous_description">Joan aurreko elementura</string>
+  <string name="media3_controls_seek_to_next_description">Joan hurrengo elementura</string>
+  <string name="media3_controls_seek_back_description">Atzeratu</string>
+  <string name="media3_controls_seek_forward_description">Aurreratu</string>
+  <string name="authentication_required">Autentifikazioa behar da</string>
+</resources>

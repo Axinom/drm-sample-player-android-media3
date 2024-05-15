@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">ഇപ്പോൾ പ്ലേ ചെയ്യുന്നത്</string>
+  <string name="media3_controls_play_description">പ്ലേ ചെയ്യുക</string>
+  <string name="media3_controls_pause_description">താൽക്കാലികമായി നിർത്തുക</string>
+  <string name="media3_controls_seek_to_previous_description">മുമ്പത്തെ ഇനത്തിലേക്ക് നീക്കുക</string>
+  <string name="media3_controls_seek_to_next_description">അടുത്ത ഇനത്തിലേക്ക് നീക്കുക</string>
+  <string name="media3_controls_seek_back_description">പിന്നോട്ട് നീക്കുക</string>
+  <string name="media3_controls_seek_forward_description">മുന്നോട്ട് നീക്കുക</string>
+  <string name="authentication_required">പരിശോധിച്ചുറപ്പിക്കേണ്ടതുണ്ട്</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">지금 재생 중</string>
+  <string name="media3_controls_play_description">재생</string>
+  <string name="media3_controls_pause_description">일시중지</string>
+  <string name="media3_controls_seek_to_previous_description">이전 항목 찾기</string>
+  <string name="media3_controls_seek_to_next_description">다음 항목 찾기</string>
+  <string name="media3_controls_seek_back_description">뒤로 탐색</string>
+  <string name="media3_controls_seek_forward_description">앞으로 탐색</string>
+  <string name="authentication_required">인증 필요</string>
+</resources>

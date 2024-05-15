@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">ప్రస్తుతం ప్లే అవుతున్నది</string>
+  <string name="media3_controls_play_description">ప్లే చేయండి</string>
+  <string name="media3_controls_pause_description">పాజ్ చేయండి</string>
+  <string name="media3_controls_seek_to_previous_description">మునుపటి ఐటెమ్‌కు దాటవేయండి</string>
+  <string name="media3_controls_seek_to_next_description">తర్వాతి ఐటెమ్‌కు దాటవేయండి</string>
+  <string name="media3_controls_seek_back_description">వెనుకకు దాటవేయండి</string>
+  <string name="media3_controls_seek_forward_description">ముందుకు ఫార్వర్డ్ చేయండి</string>
+  <string name="authentication_required">ప్రామాణీకరణ అవసరం</string>
+</resources>

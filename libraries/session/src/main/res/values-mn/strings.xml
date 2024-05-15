@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Одоо тоглуулж байна</string>
+  <string name="media3_controls_play_description">Тоглуулах</string>
+  <string name="media3_controls_pause_description">Түр зогсоох</string>
+  <string name="media3_controls_seek_to_previous_description">Өмнөх зүйл рүү гүйлгэх</string>
+  <string name="media3_controls_seek_to_next_description">Дараагийн зүйл рүү гүйлгэх</string>
+  <string name="media3_controls_seek_back_description">Буцаан гүйлгэх</string>
+  <string name="media3_controls_seek_forward_description">Урагшлуулах</string>
+  <string name="authentication_required">Баталгаажуулалт шаардлагатай</string>
+</resources>

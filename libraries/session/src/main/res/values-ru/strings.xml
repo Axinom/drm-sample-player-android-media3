@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Играет сейчас</string>
+  <string name="media3_controls_play_description">Воспроизвести</string>
+  <string name="media3_controls_pause_description">Приостановить</string>
+  <string name="media3_controls_seek_to_previous_description">К предыдущему файлу</string>
+  <string name="media3_controls_seek_to_next_description">К следующему файлу</string>
+  <string name="media3_controls_seek_back_description">Перемотать назад</string>
+  <string name="media3_controls_seek_forward_description">Перемотать вперед</string>
+  <string name="authentication_required">Требуется аутентификация</string>
+</resources>

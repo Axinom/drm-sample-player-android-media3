@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Nagpi-play ngayon</string>
+  <string name="media3_controls_play_description">I-play</string>
+  <string name="media3_controls_pause_description">I-pause</string>
+  <string name="media3_controls_seek_to_previous_description">Mag-seek sa nakaraang item</string>
+  <string name="media3_controls_seek_to_next_description">Mag-seek sa susunod na item</string>
+  <string name="media3_controls_seek_back_description">Mag-seek pabalik</string>
+  <string name="media3_controls_seek_forward_description">Mag-seek pasulong</string>
+  <string name="authentication_required">Kinakailangan ang pag-authenticate</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Se redă acum</string>
+  <string name="media3_controls_play_description">Redă</string>
+  <string name="media3_controls_pause_description">Întrerupe</string>
+  <string name="media3_controls_seek_to_previous_description">Treci la elementul anterior</string>
+  <string name="media3_controls_seek_to_next_description">Treci la elementul următor</string>
+  <string name="media3_controls_seek_back_description">Derulează înapoi</string>
+  <string name="media3_controls_seek_forward_description">Derulează înainte</string>
+  <string name="authentication_required">Autentificarea este obligatorie</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Okudlala manje</string>
+  <string name="media3_controls_play_description">Dlala</string>
+  <string name="media3_controls_pause_description">Phumula</string>
+  <string name="media3_controls_seek_to_previous_description">Funa into yangaphambilini</string>
+  <string name="media3_controls_seek_to_next_description">Funa into elandelayo</string>
+  <string name="media3_controls_seek_back_description">Funa okwangemuva</string>
+  <string name="media3_controls_seek_forward_description">Funa uye phambili</string>
+  <string name="authentication_required">Ukufakazela ubuqiniso kudingekile</string>
+</resources>

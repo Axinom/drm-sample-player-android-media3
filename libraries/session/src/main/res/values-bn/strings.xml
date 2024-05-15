@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">এখন চলছে</string>
+  <string name="media3_controls_play_description">চালান</string>
+  <string name="media3_controls_pause_description">পজ করুন</string>
+  <string name="media3_controls_seek_to_previous_description">আগের আইটেমে যান</string>
+  <string name="media3_controls_seek_to_next_description">পরের আইটেমে যান</string>
+  <string name="media3_controls_seek_back_description">ফিরে যাওয়ার বোতাম</string>
+  <string name="media3_controls_seek_forward_description">এগিয়ে যান</string>
+  <string name="authentication_required">যাচাইকরণ প্রয়োজন</string>
+</resources>

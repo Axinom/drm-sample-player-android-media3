@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">አሁን እየተጫወተ ያለ</string>
+  <string name="media3_controls_play_description">አጫውት</string>
+  <string name="media3_controls_pause_description">ባለበት አቁም</string>
+  <string name="media3_controls_seek_to_previous_description">ወደ ቀዳሚው ንጥል ፈልግ</string>
+  <string name="media3_controls_seek_to_next_description">ወደ ቀጣዩ ንጥል ፈልግ</string>
+  <string name="media3_controls_seek_back_description">ወደኋላ ፈልግ</string>
+  <string name="media3_controls_seek_forward_description">ወደፊት ፈልግ</string>
+  <string name="authentication_required">ማረጋገጥ ያስፈልጋል</string>
+</resources>

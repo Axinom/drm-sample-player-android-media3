@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">درحال پخش</string>
+  <string name="media3_controls_play_description">پخش</string>
+  <string name="media3_controls_pause_description">مکث</string>
+  <string name="media3_controls_seek_to_previous_description">رفتن به مورد قبلی</string>
+  <string name="media3_controls_seek_to_next_description">رفتن به مورد بعدی</string>
+  <string name="media3_controls_seek_back_description">رفتن به عقب</string>
+  <string name="media3_controls_seek_forward_description">رفتن به جلو</string>
+  <string name="authentication_required">اصالت‌سنجی لازم است</string>
+</resources>

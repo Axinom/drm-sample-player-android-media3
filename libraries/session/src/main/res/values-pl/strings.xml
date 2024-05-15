@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Odtwarzam teraz</string>
+  <string name="media3_controls_play_description">Odtwórz</string>
+  <string name="media3_controls_pause_description">Wstrzymaj</string>
+  <string name="media3_controls_seek_to_previous_description">Przewiń do poprzedniego elementu</string>
+  <string name="media3_controls_seek_to_next_description">Przewiń do następnego elementu</string>
+  <string name="media3_controls_seek_back_description">Przewiń do tyłu</string>
+  <string name="media3_controls_seek_forward_description">Przewiń do przodu</string>
+  <string name="authentication_required">Wymagane uwierzytelnienie</string>
+</resources>

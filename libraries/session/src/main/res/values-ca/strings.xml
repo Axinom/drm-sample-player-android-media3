@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">S\'està reproduint</string>
+  <string name="media3_controls_play_description">Reprodueix</string>
+  <string name="media3_controls_pause_description">Posa en pausa</string>
+  <string name="media3_controls_seek_to_previous_description">Ves a l\'element anterior</string>
+  <string name="media3_controls_seek_to_next_description">Ves a l\'element següent</string>
+  <string name="media3_controls_seek_back_description">Retrocedeix</string>
+  <string name="media3_controls_seek_forward_description">Avança</string>
+  <string name="authentication_required">Autenticació obligatòria</string>
+</resources>

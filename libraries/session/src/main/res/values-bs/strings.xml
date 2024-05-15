@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Trenutno se reproducira</string>
+  <string name="media3_controls_play_description">Reproduciranje</string>
+  <string name="media3_controls_pause_description">Pauziranje</string>
+  <string name="media3_controls_seek_to_previous_description">Pomicanje na prethodnu stavku</string>
+  <string name="media3_controls_seek_to_next_description">Pomicanje na sljedeću stavku</string>
+  <string name="media3_controls_seek_back_description">Pomicanje nazad</string>
+  <string name="media3_controls_seek_forward_description">Pomicanje naprijed</string>
+  <string name="authentication_required">Potrebna je autentifikacija</string>
+</resources>

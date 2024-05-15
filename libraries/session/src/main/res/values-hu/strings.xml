@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Most játszott tartalom</string>
+  <string name="media3_controls_play_description">Lejátszás</string>
+  <string name="media3_controls_pause_description">Szüneteltetés</string>
+  <string name="media3_controls_seek_to_previous_description">Ugrás az előző elemre</string>
+  <string name="media3_controls_seek_to_next_description">Ugrás a következő elemre</string>
+  <string name="media3_controls_seek_back_description">Ugrás vissza</string>
+  <string name="media3_controls_seek_forward_description">Ugrás előre</string>
+  <string name="authentication_required">Hitelesítés szükséges</string>
+</resources>

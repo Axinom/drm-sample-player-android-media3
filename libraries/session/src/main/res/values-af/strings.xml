@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Speel tans</string>
+  <string name="media3_controls_play_description">Speel</string>
+  <string name="media3_controls_pause_description">Onderbreek</string>
+  <string name="media3_controls_seek_to_previous_description">Soek tot by vorige item</string>
+  <string name="media3_controls_seek_to_next_description">Soek tot by volgende item</string>
+  <string name="media3_controls_seek_back_description">Soek agtertoe</string>
+  <string name="media3_controls_seek_forward_description">Soek vorentoe</string>
+  <string name="authentication_required">Stawing word vereis</string>
+</resources>

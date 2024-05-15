@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">आता प्ले करत आहे</string>
+  <string name="media3_controls_play_description">प्ले करा</string>
+  <string name="media3_controls_pause_description">थांबवा</string>
+  <string name="media3_controls_seek_to_previous_description">मागील आयटम वर जा</string>
+  <string name="media3_controls_seek_to_next_description">पुढील आयटमवर जा</string>
+  <string name="media3_controls_seek_back_description">मागे जा</string>
+  <string name="media3_controls_seek_forward_description">पुढे जा</string>
+  <string name="authentication_required">ऑथेंटिकेशन आवश्यक आहे</string>
+</resources>

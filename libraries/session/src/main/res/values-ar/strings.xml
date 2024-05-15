@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">قيد التشغيل الآن</string>
+  <string name="media3_controls_play_description">تشغيل</string>
+  <string name="media3_controls_pause_description">إيقاف مؤقت</string>
+  <string name="media3_controls_seek_to_previous_description">ترجيع إلى العنصر السابق</string>
+  <string name="media3_controls_seek_to_next_description">تقديم إلى العنصر التالي</string>
+  <string name="media3_controls_seek_back_description">ترجيع</string>
+  <string name="media3_controls_seek_forward_description">تقديم</string>
+  <string name="authentication_required">المصادقة مطلوبة</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Í spilun</string>
+  <string name="media3_controls_play_description">Spila</string>
+  <string name="media3_controls_pause_description">Gera hlé</string>
+  <string name="media3_controls_seek_to_previous_description">Spóla að fyrra atriði</string>
+  <string name="media3_controls_seek_to_next_description">Spóla að næsta atriði</string>
+  <string name="media3_controls_seek_back_description">Spóla til baka</string>
+  <string name="media3_controls_seek_forward_description">Spóla áfram</string>
+  <string name="authentication_required">Auðkenningar krafist</string>
+</resources>

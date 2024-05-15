@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">កំពុងចាក់</string>
+  <string name="media3_controls_play_description">ចាក់</string>
+  <string name="media3_controls_pause_description">ផ្អាក</string>
+  <string name="media3_controls_seek_to_previous_description">ទៅកាន់ធាតុមុន</string>
+  <string name="media3_controls_seek_to_next_description">ទៅកាន់ធាតុបន្ទាប់</string>
+  <string name="media3_controls_seek_back_description">ថយក្រោយ</string>
+  <string name="media3_controls_seek_forward_description">រំលង​​ទៅ​មុខ</string>
+  <string name="authentication_required">តម្រូវឱ្យ​មាន​ការផ្ទៀងផ្ទាត់</string>
+</resources>

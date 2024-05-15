@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Възпроизвеждано сега съдържание</string>
+  <string name="media3_controls_play_description">Пускане</string>
+  <string name="media3_controls_pause_description">Пауза</string>
+  <string name="media3_controls_seek_to_previous_description">Придвижване към предишния елемент</string>
+  <string name="media3_controls_seek_to_next_description">Придвижване към следващия елемент</string>
+  <string name="media3_controls_seek_back_description">Придвижване назад</string>
+  <string name="media3_controls_seek_forward_description">Придвижване напред</string>
+  <string name="authentication_required">Изисква се удостоверяване</string>
+</resources>

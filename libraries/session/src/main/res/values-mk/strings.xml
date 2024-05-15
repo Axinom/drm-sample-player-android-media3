@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Сега е пуштено</string>
+  <string name="media3_controls_play_description">Пушти</string>
+  <string name="media3_controls_pause_description">Паузирај</string>
+  <string name="media3_controls_seek_to_previous_description">Премотај на претходната ставка</string>
+  <string name="media3_controls_seek_to_next_description">Премотај на следната ставка</string>
+  <string name="media3_controls_seek_back_description">Премотај наназад</string>
+  <string name="media3_controls_seek_forward_description">Премотај нанапред</string>
+  <string name="authentication_required">Потребна е проверка</string>
+</resources>

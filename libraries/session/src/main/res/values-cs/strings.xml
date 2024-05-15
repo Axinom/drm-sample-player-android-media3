@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Přehrává se</string>
+  <string name="media3_controls_play_description">Přehrát</string>
+  <string name="media3_controls_pause_description">Pozastavit</string>
+  <string name="media3_controls_seek_to_previous_description">Posunout na předchozí položku</string>
+  <string name="media3_controls_seek_to_next_description">Posunout na další položku</string>
+  <string name="media3_controls_seek_back_description">Posunout zpět</string>
+  <string name="media3_controls_seek_forward_description">Posunout vpřed</string>
+  <string name="authentication_required">Je vyžadováno ověření</string>
+</resources>

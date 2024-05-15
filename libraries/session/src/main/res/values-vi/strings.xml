@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Đang phát</string>
+  <string name="media3_controls_play_description">Phát</string>
+  <string name="media3_controls_pause_description">Tạm dừng</string>
+  <string name="media3_controls_seek_to_previous_description">Tua về mục trước</string>
+  <string name="media3_controls_seek_to_next_description">Tua đến mục tiếp theo</string>
+  <string name="media3_controls_seek_back_description">Tua lại</string>
+  <string name="media3_controls_seek_forward_description">Tua đi</string>
+  <string name="authentication_required">Yêu cầu xác thực</string>
+</resources>

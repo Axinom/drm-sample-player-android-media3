@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Tagad atskaņo</string>
+  <string name="media3_controls_play_description">Atskaņot</string>
+  <string name="media3_controls_pause_description">Apturēt</string>
+  <string name="media3_controls_seek_to_previous_description">Pāriet uz iepriekšējo vienumu</string>
+  <string name="media3_controls_seek_to_next_description">Pāriet uz nākamo vienumu</string>
+  <string name="media3_controls_seek_back_description">Pāriet atpakaļ</string>
+  <string name="media3_controls_seek_forward_description">Pāriet uz priekšu</string>
+  <string name="authentication_required">Nepieciešama autentificēšana</string>
+</resources>

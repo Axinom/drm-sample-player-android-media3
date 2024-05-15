@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">İndi oxudulur</string>
+  <string name="media3_controls_play_description">Oxudun</string>
+  <string name="media3_controls_pause_description">Durdurun</string>
+  <string name="media3_controls_seek_to_previous_description">Əvvəlki elementə keçin</string>
+  <string name="media3_controls_seek_to_next_description">Növbəti elementə keçin</string>
+  <string name="media3_controls_seek_back_description">Geri keçin</string>
+  <string name="media3_controls_seek_forward_description">İrəli keçin</string>
+  <string name="authentication_required">Doğrulanma tələb olunur</string>
+</resources>

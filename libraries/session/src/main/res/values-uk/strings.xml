@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Зараз відтворюється</string>
+  <string name="media3_controls_play_description">Відтворити</string>
+  <string name="media3_controls_pause_description">Призупинити</string>
+  <string name="media3_controls_seek_to_previous_description">Перейти до попереднього об’єкта</string>
+  <string name="media3_controls_seek_to_next_description">Перейти до наступного об’єкта</string>
+  <string name="media3_controls_seek_back_description">Перемотати назад</string>
+  <string name="media3_controls_seek_forward_description">Перемотати вперед</string>
+  <string name="authentication_required">Потрібна автентифікація</string>
+</resources>

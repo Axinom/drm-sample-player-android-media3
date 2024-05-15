@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Hetkel mängimas</string>
+  <string name="media3_controls_play_description">Esitamine</string>
+  <string name="media3_controls_pause_description">Peatamine</string>
+  <string name="media3_controls_seek_to_previous_description">Eelmise üksuse juurde liikumine</string>
+  <string name="media3_controls_seek_to_next_description">Järgmise üksuse juurde liikumine</string>
+  <string name="media3_controls_seek_back_description">Tagasikerimine</string>
+  <string name="media3_controls_seek_forward_description">Edasikerimine</string>
+  <string name="authentication_required">Vajalik on autentimine</string>
+</resources>

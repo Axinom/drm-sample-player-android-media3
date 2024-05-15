@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Тренутно свира</string>
+  <string name="media3_controls_play_description">Пусти</string>
+  <string name="media3_controls_pause_description">Паузирај</string>
+  <string name="media3_controls_seek_to_previous_description">Премотај на претходну ставку</string>
+  <string name="media3_controls_seek_to_next_description">Премотај на следећу ставку</string>
+  <string name="media3_controls_seek_back_description">Премотај уназад</string>
+  <string name="media3_controls_seek_forward_description">Премотај унапред</string>
+  <string name="authentication_required">Потребна је потврда идентитета</string>
+</resources>

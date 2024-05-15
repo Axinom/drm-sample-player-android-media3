@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Зараз іграе</string>
+  <string name="media3_controls_play_description">Прайграць</string>
+  <string name="media3_controls_pause_description">Прыпыніць</string>
+  <string name="media3_controls_seek_to_previous_description">Перайсці да папярэдняга элемента</string>
+  <string name="media3_controls_seek_to_next_description">Перайсці да наступнага элемента</string>
+  <string name="media3_controls_seek_back_description">Перайсці назад</string>
+  <string name="media3_controls_seek_forward_description">Перайсці ўперад</string>
+  <string name="authentication_required">Патрабуецца аўтэнтыфікацыя</string>
+</resources>

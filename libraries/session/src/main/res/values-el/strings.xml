@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Ακούγεται τώρα</string>
+  <string name="media3_controls_play_description">Αναπαραγωγή</string>
+  <string name="media3_controls_pause_description">Παύση</string>
+  <string name="media3_controls_seek_to_previous_description">Αναζήτηση προς προηγούμενο στοιχείο</string>
+  <string name="media3_controls_seek_to_next_description">Αναζήτηση προς επόμενο στοιχείο</string>
+  <string name="media3_controls_seek_back_description">Αναζήτηση προς τα πίσω</string>
+  <string name="media3_controls_seek_forward_description">Αναζήτηση προς τα εμπρός</string>
+  <string name="authentication_required">Απαιτείται έλεγχος ταυτότητας</string>
+</resources>

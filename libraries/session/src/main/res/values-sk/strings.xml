@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Prehráva sa</string>
+  <string name="media3_controls_play_description">Prehrať</string>
+  <string name="media3_controls_pause_description">Pozastaviť</string>
+  <string name="media3_controls_seek_to_previous_description">Hľadať v predchádzajúcej položke</string>
+  <string name="media3_controls_seek_to_next_description">Hľadať v ďalšej položke</string>
+  <string name="media3_controls_seek_back_description">Hľadať smerom dozadu</string>
+  <string name="media3_controls_seek_forward_description">Hľadať smerom dopredu</string>
+  <string name="authentication_required">Vyžaduje sa overenie</string>
+</resources>

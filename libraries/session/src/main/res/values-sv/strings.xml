@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Nu spelas</string>
+  <string name="media3_controls_play_description">Spela upp</string>
+  <string name="media3_controls_pause_description">Pausa</string>
+  <string name="media3_controls_seek_to_previous_description">Hoppa till föregående objekt</string>
+  <string name="media3_controls_seek_to_next_description">Hoppa till nästa objekt</string>
+  <string name="media3_controls_seek_back_description">Hoppa bakåt</string>
+  <string name="media3_controls_seek_forward_description">Hoppa framåt</string>
+  <string name="authentication_required">Autentisering krävs</string>
+</resources>

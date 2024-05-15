@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Wordt nu afgespeeld</string>
+  <string name="media3_controls_play_description">Afspelen</string>
+  <string name="media3_controls_pause_description">Pauzeren</string>
+  <string name="media3_controls_seek_to_previous_description">Naar vorige item springen</string>
+  <string name="media3_controls_seek_to_next_description">Naar volgende item springen</string>
+  <string name="media3_controls_seek_back_description">Achteruit springen</string>
+  <string name="media3_controls_seek_forward_description">Vooruit springen</string>
+  <string name="authentication_required">Verificatie vereist</string>
+</resources>

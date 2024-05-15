@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">現正播放</string>
+  <string name="media3_controls_play_description">播放</string>
+  <string name="media3_controls_pause_description">暫停</string>
+  <string name="media3_controls_seek_to_previous_description">跳轉到上一個項目</string>
+  <string name="media3_controls_seek_to_next_description">跳轉到下一個項目</string>
+  <string name="media3_controls_seek_back_description">倒轉</string>
+  <string name="media3_controls_seek_forward_description">快轉</string>
+  <string name="authentication_required">必須驗證</string>
+</resources>

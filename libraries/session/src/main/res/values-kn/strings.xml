@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">ಇದೀಗ ಪ್ಲೇ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
+  <string name="media3_controls_play_description">ಪ್ಲೇ ಮಾಡಿ</string>
+  <string name="media3_controls_pause_description">ವಿರಾಮಗೊಳಿಸಿ</string>
+  <string name="media3_controls_seek_to_previous_description">ಹಿಂದಿನ ಐಟಂಗೆ ಸೀಕ್ ಮಾಡಿ</string>
+  <string name="media3_controls_seek_to_next_description">ಮುಂದಿನ ಐಟಂಗೆ ಸೀಕ್ ಮಾಡಿ</string>
+  <string name="media3_controls_seek_back_description">ಹಿಂದಕ್ಕೆ ಸೀಕ್ ಮಾಡಿ</string>
+  <string name="media3_controls_seek_forward_description">ಮುಂದಕ್ಕೆ ಸೀಕ್ ಮಾಡಿ</string>
+  <string name="authentication_required">ದೃಢೀಕರಣದ ಅಗತ್ಯವಿದೆ</string>
+</resources>

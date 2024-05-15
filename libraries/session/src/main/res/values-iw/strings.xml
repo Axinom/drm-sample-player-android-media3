@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">הפריט שמופעל עכשיו</string>
+  <string name="media3_controls_play_description">הפעלה</string>
+  <string name="media3_controls_pause_description">השהיה</string>
+  <string name="media3_controls_seek_to_previous_description">דילוג לפריט הקודם</string>
+  <string name="media3_controls_seek_to_next_description">דילוג לפריט הבא</string>
+  <string name="media3_controls_seek_back_description">דילוג אחורה</string>
+  <string name="media3_controls_seek_forward_description">דילוג קדימה</string>
+  <string name="authentication_required">נדרש אימות</string>
+</resources>

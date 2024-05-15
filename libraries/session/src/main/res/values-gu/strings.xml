@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">હાલમાં ચાલી રહી છે</string>
+  <string name="media3_controls_play_description">ચલાવો</string>
+  <string name="media3_controls_pause_description">થોભાવો</string>
+  <string name="media3_controls_seek_to_previous_description">પાછલી આઇટમ શોધો</string>
+  <string name="media3_controls_seek_to_next_description">આગલી આઇટમ શોધો</string>
+  <string name="media3_controls_seek_back_description">પાછળ લઈ જાઓ</string>
+  <string name="media3_controls_seek_forward_description">આગળ લઈ જાઓ</string>
+  <string name="authentication_required">પ્રમાણીકરણ આવશ્યક છે</string>
+</resources>

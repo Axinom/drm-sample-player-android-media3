@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Afspilles nu</string>
+  <string name="media3_controls_play_description">Afspil</string>
+  <string name="media3_controls_pause_description">Sæt på pause</string>
+  <string name="media3_controls_seek_to_previous_description">Hop til forrige element</string>
+  <string name="media3_controls_seek_to_next_description">Hop til næste element</string>
+  <string name="media3_controls_seek_back_description">Hop tilbage</string>
+  <string name="media3_controls_seek_forward_description">Hop frem</string>
+  <string name="authentication_required">Godkendelse er påkrævet</string>
+</resources>

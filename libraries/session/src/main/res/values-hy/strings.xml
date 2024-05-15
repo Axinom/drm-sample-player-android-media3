@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Այժմ նվագարկվում է</string>
+  <string name="media3_controls_play_description">Նվագարկել</string>
+  <string name="media3_controls_pause_description">Դադարեցնել</string>
+  <string name="media3_controls_seek_to_previous_description">Անցնել նախորդ տարրին</string>
+  <string name="media3_controls_seek_to_next_description">Անցնել հաջորդ տարրին</string>
+  <string name="media3_controls_seek_back_description">Հետ գնալ</string>
+  <string name="media3_controls_seek_forward_description">Առաջ գնալ</string>
+  <string name="authentication_required">Պահանջվում է նույնականացում</string>
+</resources>

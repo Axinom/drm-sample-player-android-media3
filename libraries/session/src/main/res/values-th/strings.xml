@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">กำลังเล่น</string>
+  <string name="media3_controls_play_description">เล่น</string>
+  <string name="media3_controls_pause_description">หยุดชั่วคราว</string>
+  <string name="media3_controls_seek_to_previous_description">กรอไปยังรายการก่อนหน้า</string>
+  <string name="media3_controls_seek_to_next_description">กรอไปยังรายการถัดไป</string>
+  <string name="media3_controls_seek_back_description">กรอกลับ</string>
+  <string name="media3_controls_seek_forward_description">กรอไปข้างหน้า</string>
+  <string name="authentication_required">ต้องมีการตรวจสอบสิทธิ์</string>
+</resources>

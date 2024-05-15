@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">இப்போது பிளே ஆவது</string>
+  <string name="media3_controls_play_description">பிளே செய்யும்</string>
+  <string name="media3_controls_pause_description">இடைநிறுத்தும்</string>
+  <string name="media3_controls_seek_to_previous_description">முந்தையதற்குச் செல்லும்</string>
+  <string name="media3_controls_seek_to_next_description">அடுத்ததற்குச் செல்லும்</string>
+  <string name="media3_controls_seek_back_description">பின்செல்லும்</string>
+  <string name="media3_controls_seek_forward_description">முன்செல்லும்</string>
+  <string name="authentication_required">அங்கீகாரம் தேவை</string>
+</resources>

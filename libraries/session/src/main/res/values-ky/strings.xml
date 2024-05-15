@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Ойноп жатат</string>
+  <string name="media3_controls_play_description">Ойнотуу</string>
+  <string name="media3_controls_pause_description">Тындыруу</string>
+  <string name="media3_controls_seek_to_previous_description">Мурунку нерсеге өтүү</string>
+  <string name="media3_controls_seek_to_next_description">Кийинки нерсеге өтүү</string>
+  <string name="media3_controls_seek_back_description">Артка түрдүрүү</string>
+  <string name="media3_controls_seek_forward_description">Алдыга түрдүрүү</string>
+  <string name="authentication_required">Аныктыгын текшерүү талап кылынат</string>
+</resources>

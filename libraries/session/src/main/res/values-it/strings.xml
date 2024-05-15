@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Ora in riproduzione</string>
+  <string name="media3_controls_play_description">Riproduci</string>
+  <string name="media3_controls_pause_description">Metti in pausa</string>
+  <string name="media3_controls_seek_to_previous_description">Vai all\'elemento precedente</string>
+  <string name="media3_controls_seek_to_next_description">Vai all\'elemento successivo</string>
+  <string name="media3_controls_seek_back_description">Vai indietro</string>
+  <string name="media3_controls_seek_forward_description">Vai avanti</string>
+  <string name="authentication_required">Autenticazione richiesta</string>
+</resources>

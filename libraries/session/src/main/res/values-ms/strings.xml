@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="default_notification_channel_name">Sedang dimainkan</string>
+  <string name="media3_controls_play_description">Main</string>
+  <string name="media3_controls_pause_description">Jeda</string>
+  <string name="media3_controls_seek_to_previous_description">Cari sehingga item sebelumnya</string>
+  <string name="media3_controls_seek_to_next_description">Cari sehingga item seterusnya</string>
+  <string name="media3_controls_seek_back_description">Mandir</string>
+  <string name="media3_controls_seek_forward_description">Mundar</string>
+  <string name="authentication_required">Pengesahan diperlukan</string>
+</resources>
