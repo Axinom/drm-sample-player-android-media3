@@ -46,10 +46,10 @@
     ]
   },
   {
-    "name": "Viewlift",
+    "name": "Sakvith - Test",
     "samples": [
       {
-        "name": "Sample test vector",
+        "name": "Sample test vector - HW_SECURE_ALL",
         "uri": "https://sakvith-public.s3.us-west-1.amazonaws.com/viewlift/agent_singlekey.mpd",
         "drm_scheme": "widevine",
         "drm_license_uri": "https://drm-widevine-licensing.axprod.net/AcquireLicense?AxDrmMessage=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXJzaW9uIjoxLCJjb21fa2V5X2lkIjoiNjllNTQwODgtZTllMC00NTMwLThjMWEtMWViNmRjZDBkMTRlIiwibWVzc2FnZSI6eyJ0eXBlIjoiZW50aXRsZW1lbnRfbWVzc2FnZSIsInZlcnNpb24iOjIsImxpY2Vuc2UiOnsiYWxsb3dfcGVyc2lzdGVuY2UiOmZhbHNlLCJleHBpcmF0aW9uX2RhdGV0aW1lIjoiMjAyNC0wNi0wMVQwMDowMDowMCswMzowMCJ9LCJjb250ZW50X2tleXNfc291cmNlIjp7ImlubGluZSI6W3siaWQiOiI0MDYwYTg2NS04ODc4LTQyNjctOWNiZi05MWFlNWJhZTFlNzIiLCJlbmNyeXB0ZWRfa2V5Ijoid3QzRW51dVI1UkFybjZBRGYxNkNCQT09IiwidXNhZ2VfcG9saWN5IjoiUG9saWN5IEEifV19LCJjb250ZW50X2tleV91c2FnZV9wb2xpY2llcyI6W3sibmFtZSI6IlBvbGljeSBBIiwicGxheXJlYWR5Ijp7Im1pbl9kZXZpY2Vfc2VjdXJpdHlfbGV2ZWwiOjE1MCwicGxheV9lbmFibGVycyI6WyI3ODY2MjdEOC1DMkE2LTQ0QkUtOEY4OC0wOEFFMjU1QjAxQTciXX0sIndpZGV2aW5lIjp7ImRldmljZV9zZWN1cml0eV9sZXZlbCI6IkhXX1NFQ1VSRV9BTEwifX1dfX0.Rzq_iI4NityRQzRnlVUFtkVK_glUJPDrMSg5SbzNyFY"
