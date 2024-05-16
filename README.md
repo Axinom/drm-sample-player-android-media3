@@ -43,4 +43,4 @@ Here is a list of important files in the project.
 
 # AndroidX Media
 
-More details on Android MediaX can be found here `https://github.com/androidx/media`
+More details on AndroidX Media can be found here `https://github.com/androidx/media`
