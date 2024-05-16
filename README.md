@@ -15,10 +15,10 @@ Here is a list of important files in the project.
 * A class that loads sample videos from [media.exolist.json](/demos/main/src/main/assets/media.exolist.json).
   This json file can be modified to add your own sample videos for the application to use.
 
-[PlayerActivity.java](demo/main/src/main/java/androidx/media3/demo/main/PlayerActivity.java)
+[PlayerActivity.java](demos/main/src/main/java/androidx/media3/demo/main/PlayerActivity.java)
 * An activity that plays media using ExoPlayer.
 
-[DemoDownloadService.java](demo/main/src/main/java/androidx/media3/demo/main/DemoDownloadService.java)
+[DemoDownloadService.java](demos/main/src/main/java/androidx/media3/demo/main/DemoDownloadService.java)
 * A service for downloading media.
 
 
